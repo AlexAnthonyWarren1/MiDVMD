@@ -1,0 +1,4 @@
+einops
+opt_einsum
+huggingface_hub
+lietorch @ git+https://github.com/princeton-vl/lietorch.git@0fa9ce8
