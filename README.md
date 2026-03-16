@@ -9,4 +9,4 @@ Swansea University, City University of Hong Kong, Huawei Technologies, Chinese U
 Code and Paper coming soon. 
 
 [[Code Coming Soon]]() [[Paper Coming Soon]]() [[Supp Coming Soon]]()
-[Swansea University Confra](https://cronfa.swan.ac.uk/Record/cronfa70923/Details)
+[[Swansea University Confra](https://cronfa.swan.ac.uk/Record/cronfa70923/Details)]
