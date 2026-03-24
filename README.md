@@ -6,6 +6,10 @@
 
 Swansea University, City University of Hong Kong, Huawei Technologies, Chinese University of Hong Kong
 
+### Code and Weights Download & Paper Links
+[[Code and Weights]](https://alex-warren.co.uk/files/midvmd.zip) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38023/41985)
+[[Swansea University Confra](https://cronfa.swan.ac.uk/Record/cronfa70923/Details)]
+
 ## Setup
 To run inference using **Motion-in-Depth**, you will need to install both a **Depth Estimation** and a **Scene Flow Estimation** method. 
 Follow the steps below to set up `raft3d` (SF) and `raft_stereo` (Depth Estimation)
@@ -24,7 +28,3 @@ https://github.com/princeton-vl/RAFT-Stereo networks/raft_stereo
 
 ### Dependancies
 pip install -r requirements.txt
-
-### Links
-[[Code and Weights]](https://alex-warren.co.uk/files/midvmd.zip) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38023/41985)
-[[Swansea University Confra](https://cronfa.swan.ac.uk/Record/cronfa70923/Details)]
