@@ -11,9 +11,9 @@ Setup:
 To inference using Motion-in-Depth, you will need to install Depth Estimation and Scene Flow Estimation methods.
 Follow steps below for setup of raft3d and raft_stereo:
 
-networks/
-├── raft3d/
-└── raft_stereo/
+networks/ \n
+├── raft3d/ \n
+└── raft_stereo/ \n
 
 # RAFT-3D
 https://github.com/princeton-vl/RAFT-3D networks/raft3d
