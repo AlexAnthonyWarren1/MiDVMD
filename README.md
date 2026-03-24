@@ -6,7 +6,20 @@
 
 Swansea University, City University of Hong Kong, Huawei Technologies, Chinese University of Hong Kong
 
-Code and Paper coming soon. 
+Setup:
 
-[[Code Coming Soon]]() [[Paper Coming Soon]]() [[Supp Coming Soon]]()
+To inference using Motion-in-Depth, you will need to install Depth Estimation and Scene Flow Estimation methods.
+Follow steps below for setup of raft3d and raft_stereo:
+
+networks/
+├── raft3d/
+└── raft_stereo/
+
+# RAFT-3D
+https://github.com/princeton-vl/RAFT-3D networks/raft3d
+
+# RAFT-Stereo
+https://github.com/princeton-vl/RAFT-Stereo networks/raft_stereo
+
+[[Code]](https://alex-warren.co.uk/files/midvmd.zip) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38023/41985)
 [[Swansea University Confra](https://cronfa.swan.ac.uk/Record/cronfa70923/Details)]
