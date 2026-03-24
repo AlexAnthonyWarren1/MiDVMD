@@ -30,4 +30,6 @@ https://github.com/princeton-vl/RAFT-Stereo networks/raft_stereo
 pip install -r requirements.txt
 
 ### BibTeX
+```
 @article{Warren_Xu_Tian_Tam_Wah_Lau_2026, title={Video Mirror Detection with the Motion-in-Depth Cue}, volume={40}, url={https://ojs.aaai.org/index.php/AAAI/article/view/38023}, DOI={10.1609/aaai.v40i13.38023}, }, year={2026}, month={Mar.}, pages={10512-10520} }
+```
