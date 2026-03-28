@@ -30,7 +30,7 @@ https://github.com/princeton-vl/RAFT-Stereo networks/raft_stereo
 pip install -r requirements.txt
 
 ### Notes
-Inference can both be found in train.py
+Inference can be found in train.py
 
 ### BibTeX
 ```bibtex
