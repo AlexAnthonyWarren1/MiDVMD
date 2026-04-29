@@ -7,7 +7,7 @@
 Swansea University, City University of Hong Kong, Huawei Technologies, Chinese University of Hong Kong
 
 ### Code and Weights Download & Paper Links
-[[Code and Weights]](https://swanseauniversity-my.sharepoint.com/:f:/g/personal/851864_swansea_ac_uk/IgD1r8tM3kwhR5NdO-ddiuQGARg9nu98qJWqYrIikQaxlAw?e=WH8v09) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38023/41985)
+[[Code and Weights]](https://swanseauniversity-my.sharepoint.com/:u:/g/personal/851864_swansea_ac_uk/IQDqO3mkOL3tRJSPvdc8-DC_AfAgv6SOotfBcgh1sbFBhXs?e=OeRKIy) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38023/41985)
 [[Swansea University Confra](https://cronfa.swan.ac.uk/Record/cronfa70923/Details)]
 
 ## Setup
